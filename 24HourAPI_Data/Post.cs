@@ -8,5 +8,10 @@ namespace _24HourAPI_Data
 {
     public class Post
     {
+        public int PostId { get; set; }
+        public string Title { get; set; }
+        public string Text { get; set; }
+        public virtual List<Comment> Comments { get; set; }
+        public Guid AuthorId { get; set; }
     }
 }
