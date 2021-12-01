@@ -1,0 +1,6 @@
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\Blue Badge\24HourAPI\24HourAPI\24HourAPI.Models\bin\Debug\24HourAPI.Models.dll
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\Blue Badge\24HourAPI\24HourAPI\24HourAPI.Models\bin\Debug\24HourAPI.Models.pdb
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\Blue Badge\24HourAPI\24HourAPI\24HourAPI.Models\obj\Debug\24HourAPI.Models.csproj.AssemblyReference.cache
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\Blue Badge\24HourAPI\24HourAPI\24HourAPI.Models\obj\Debug\24HourAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\Blue Badge\24HourAPI\24HourAPI\24HourAPI.Models\obj\Debug\24HourAPI.Models.dll
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\Blue Badge\24HourAPI\24HourAPI\24HourAPI.Models\obj\Debug\24HourAPI.Models.pdb

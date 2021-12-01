@@ -1,0 +1,2 @@
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\Blue Badge\24HourAPI\24HourAPI\24HourAPI_API\obj\Debug\24HourAPI.API.csproj.AssemblyReference.cache
+C:\Users\desig\Desktop\ElevenFiftyProjects\113SD\Blue Badge\24HourAPI\24HourAPI\24HourAPI_API\obj\Debug\24HourAPI.API.csproj.CoreCompileInputs.cache
